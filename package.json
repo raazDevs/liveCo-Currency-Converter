@@ -1,0 +1,26 @@
+{
+  "name": "liveco-currency-converter",
+  "version": "1.0.0",
+  "description": "An npm package to convert a currency ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test run npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raazDevs/liveCo-Currency-Converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Rajdeep Nath",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/raazDevs/liveCo-Currency-Converter/issues"
+  },
+  "homepage": "https://github.com/raazDevs/liveCo-Currency-Converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
